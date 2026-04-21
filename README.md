@@ -4,7 +4,7 @@
 
 > Refactor, generate tests, explain code , without leaking credentials, or proprietary source to Public AI (OpenAI, Anthropic, or Google ... ).
 
-![demo](images/vscode-saf.gif)
+![demo](vscode-saf.gif)
 
 ## Why SecureAIFlow?
 
